@@ -10,11 +10,11 @@ Bem-vindo ao Repositório de Estudos em Rust! Este repositório foi criado para 
 
 O repositório está organizado da seguinte maneira:
 
-- **exemplos**: Esta pasta contém uma série de exemplos simples e didáticos que demonstram conceitos fundamentais da linguagem Rust. Cada exemplo está contido em seu próprio arquivo e é acompanhado por comentários explicativos.
+<!-- - **exemplos**: Esta pasta contém uma série de exemplos simples e didáticos que demonstram conceitos fundamentais da linguagem Rust. Cada exemplo está contido em seu próprio arquivo e é acompanhado por comentários explicativos.
 
 - **exercicios**: Aqui você encontrará uma variedade de exercícios práticos projetados para fortalecer sua compreensão de Rust. Os exercícios abrangem uma variedade de tópicos, desde os básicos até desafios mais avançados.
 
-- **projetos**: Nesta pasta, você pode explorar projetos mais substanciais desenvolvidos em Rust. Estes projetos podem variar de simples aplicativos de linha de comando a programas mais complexos e completos.
+- **projetos**: Nesta pasta, você pode explorar projetos mais substanciais desenvolvidos em Rust. Estes projetos podem variar de simples aplicativos de linha de comando a programas mais complexos e completos. -->
 
 ## Contribuindo
 
