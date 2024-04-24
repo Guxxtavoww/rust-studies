@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Hello from cargo, i was runned by the command: cargo run");
 }

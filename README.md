@@ -35,3 +35,9 @@ Além deste repositório, recomendamos os seguintes recursos para ajudá-lo em s
 Este repositório é licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir o conteúdo deste repositório de acordo com os termos da licença.
 
 Esperamos que este repositório seja útil para você em sua jornada de aprendizado em Rust. Boa codificação! 🦀🚀
+
+## Comandos
+
+`cargo run` <br />
+`cargo new name_of_project` <br />
+`rustc .\name_of_file.rs && ./name_of_file.exe`
