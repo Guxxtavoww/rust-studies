@@ -2,7 +2,7 @@ pub fn loop_fn() -> () {
   let mut counter: i32 = 0;
 
   loop {
-    println!("Counter: {}", counter);
+    println!("Loop Counter: {}", counter);
 
     counter += 1;
 
