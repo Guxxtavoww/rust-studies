@@ -8,7 +8,7 @@ pub fn panic_function(value: i32) -> i32 {
 
 pub fn panic_catch() {
     let result = std::panic::catch_unwind(|| {
-        let value = panic_function(0);
+        let value = panic_function(10);
 
         return Ok::<i32, &str>(value);
     });
