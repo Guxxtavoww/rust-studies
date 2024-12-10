@@ -1,5 +1,7 @@
 use crate::practice::PraticeTrait;
+use crate::person::handle_person;
 
+mod person;
 mod practice;
 
 trait GeometricForm {
@@ -30,5 +32,5 @@ fn main() {
 
     let area = square.calculate_area();
 
-    println!("Area: {}, Pratice: {}", area, practice.description);
+    println!("Area: {}, Pratice: {}, Name: {}", area, practice.description, handle_person(String::from("Fodase"), String::from("Fodase")));
 }
